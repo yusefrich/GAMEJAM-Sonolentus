@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Familia\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Familia\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_itch-io-dreams-and-nightmares.-1036545450.00" t="ExcludeRecursive" />
+    <e p="C:\yusef\meus games\itch-io-dreams-and-nightmares" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="3PartyAssets" t="Include">
+          <e p="Tilemap" t="Include">
+            <e p="Brushes" t="Include">
+              <e p="Coordinate Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="CoordinateBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="GameObject Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="GameObjectBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Group Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="GroupBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Line Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="LineBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Prefab Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="PrefabBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Random Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="RandomBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Tint Brush" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="TintBrush.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Tint Brush Smooth" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="TintBrushSmooth.cs" t="Include" />
+                  </e>
+                  <e p="TintTextureGenerator.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="TintedTilemap.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="GridInformation" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="GridInformation.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Tiles" t="Include">
+              <e p="Animated Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="AnimatedTile.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Hexagonal Rule Tile" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="HexagonalRuleTileEditor.cs" t="Include" />
+                </e>
+                <e p="HexagonalRuleTile.cs" t="Include" />
+              </e>
+              <e p="Isometric Rule Tile" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="IsometricRuleTileEditor.cs" t="Include" />
+                </e>
+                <e p="IsometricRuleTile.cs" t="Include" />
+              </e>
+              <e p="Pipeline Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="PipelineTile.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Random Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="RandomTile.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Rule Override Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="PopulateRuleOverrideTileWizard.cs" t="Include" />
+                    <e p="RuleOverrideTileEditor.cs" t="Include" />
+                  </e>
+                  <e p="RuleOverrideTile.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Rule Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="CustomRuleTileMenu.cs" t="Include" />
+                    <e p="RuleTileEditor.cs" t="Include" />
+                  </e>
+                  <e p="RuleTile.cs" t="Include" />
+                </e>
+                <e p="ScriptTemplates" t="Include">
+                  <e p="NewCustomRuleTile.cs.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Terrain Tile" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="TerrainTile.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Weighted Random Tile" t="Include">
+                <e p="WeightedRandomTile.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="BgSwitch.cs" t="Include" />
+        <e p="FinishLineCollider.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="CharacterController" t="Include">
+            <e p="_AliveInterace.cs" t="Include" />
+            <e p="CheckNextSquareLock.cs" t="Include" />
+            <e p="SquareLockMovement.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="CustomEnemyController.cs" t="Include" />
+          </e>
+          <e p="FollowCamera.cs" t="Include" />
+          <e p="LastStepped" t="Include">
+            <e p="LastSteppedGround.cs" t="Include" />
+          </e>
+          <e p="NextLevel.cs" t="Include" />
+          <e p="PersistentGameCanvas.cs" t="Include" />
+          <e p="PersistentSoundTrack.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="CustomPlayerController.cs" t="Include" />
+            <e p="PlayerCanvasController.cs" t="Include" />
+          </e>
+          <e p="unity_5_blur.shader" t="Include" />
+        </e>
+      </e>
+      <e p="itch-io-dreams-and-nightmares.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
